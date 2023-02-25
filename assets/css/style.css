@@ -81,7 +81,7 @@ a:hover {
     object-fit: fill;
   }
   .description1 img {
-    height: 150px;
+    height: auto;
     width: 100%;
     object-fit: cover;
   }
